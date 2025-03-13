@@ -1,4 +1,5 @@
-p =input("Digite uma algo : ")
+p = 
+input("Digite uma algo : ")
 
 print("O tipo primitivo é ? :",type(p))
 print("Só tem espaço ? :",p.isspace())

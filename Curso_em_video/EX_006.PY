@@ -1,4 +1,4 @@
-n=int(input("Digite um numero : "))
+n = int(input("Digite um numero : "))
 
 d = n*2
 
