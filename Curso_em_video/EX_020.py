@@ -22,3 +22,4 @@ def sortear_ordem_apresentacao():
 
 
 sortear_ordem_apresentacao()
+
